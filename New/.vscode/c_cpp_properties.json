@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "F:/System/Documents/CubeMX/New/Drivers/CMSIS/Include",
+                "F:/System/Documents/CubeMX/New/Drivers/CMSIS/Device/ST/STM32L4xx/Include",
+                "F:/System/Documents/CubeMX/New/Drivers/STM32L4xx_HAL_Driver/Inc/Legacy",
+                "F:/System/Documents/CubeMX/New/Drivers/STM32L4xx_HAL_Driver/Inc",
+                "F:/System/Documents/CubeMX/New/Core/Inc",
+                "C:/Keil_v5/ARM/ARMCompiler6.10.1/include",
+                "${workspaceFolder}/**"
+
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.15.26726/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "files.exclude": {
+        "**/.git": true,
+         "**/.svn": true,
+         "**/.DS_Store": true,
+         "**/node_modules": true,
+         "**/MDK-ARM/": true,
+         "**/.uvoptx": false
+    },
+    "version": 4
+}
