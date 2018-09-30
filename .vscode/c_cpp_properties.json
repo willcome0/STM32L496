@@ -24,13 +24,5 @@
             "intelliSenseMode": "msvc-x64"
         }
     ],
-    "files.exclude": {
-        "**/.git": true,
-         "**/.svn": true,
-         "**/.DS_Store": true,
-         "**/node_modules": true,
-         "**/MDK-ARM/": true,
-         "**/.uvoptx": false
-    },
     "version": 4
 }

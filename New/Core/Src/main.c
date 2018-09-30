@@ -112,8 +112,8 @@ int main(void)
 
 		/* USER CODE BEGIN 3 */
 		HAL_Delay(1000);
-		printf("这样还乱码？\n");
-		HAL_Delay
+		printf("这样还乱码？\n");	// 乱码？
+//		HAL_Delay
 	}
 	/* USER CODE END 3 */
 
