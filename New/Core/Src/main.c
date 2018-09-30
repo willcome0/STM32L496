@@ -112,7 +112,8 @@ int main(void)
 
 		/* USER CODE BEGIN 3 */
 		HAL_Delay(1000);
-		printf("这样还乱码？\n");	// 乱码？
+		printf("12345乱码，而且不报错了\n");	// 又是乱码
+		
 //		HAL_Delay
 	}
 	/* USER CODE END 3 */
